@@ -64,7 +64,7 @@ class _DetailPageState extends State<DetailPage> {
             padding: const EdgeInsets.only(right: 8.0),
             child: IconButton(
                 onPressed: () {
-                  print("Settings Tapped!");
+                  print("Future settings will be added");
                 },
                 icon: const Icon(Icons.settings)),
           )

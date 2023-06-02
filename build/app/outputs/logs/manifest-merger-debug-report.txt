@@ -17,6 +17,7 @@ INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifes
 INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
 INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
 MERGED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:geocoding_android] E:\flutter-weather-app-v2-main\build\geocoding_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\22bd2440842747b4e0b596e0f2d49118\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3c4fb4fe86efc6cf95ea932e26949808\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -55,6 +56,8 @@ uses-sdk
 INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
 INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:geocoding_android] E:\flutter-weather-app-v2-main\build\geocoding_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding_android] E:\flutter-weather-app-v2-main\build\geocoding_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\22bd2440842747b4e0b596e0f2d49118\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\22bd2440842747b4e0b596e0f2d49118\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41

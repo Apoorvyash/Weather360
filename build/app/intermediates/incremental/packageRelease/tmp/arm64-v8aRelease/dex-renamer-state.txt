@@ -1,4 +1,0 @@
-#Thu Jun 01 14:38:34 IST 2023
-base.0=E\:\\flutter-weather-app-v2-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
