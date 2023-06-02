@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Apoorv\.gradle\caches\transforms-3\bfd787f2630888c94692694627af4c67\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Apoorv\.gradle\caches\transforms-3\bfd787f2630888c94692694627af4c67\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Apoorv\.gradle\caches\transforms-3\a2fc3d8447da0165459e5a837134ca4f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Apoorv\.gradle\caches\transforms-3\a2fc3d8447da0165459e5a837134ca4f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Apoorv\.gradle\caches\transforms-3\bfd787f2630888c94692694627af4c67\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:4:9-47
+	android:icon
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:6:9-43
+	android:name
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:5:9-42
+manifest
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\22bd2440842747b4e0b596e0f2d49118\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3c4fb4fe86efc6cf95ea932e26949808\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\a0c6294fce5dc07c30a23fce13d7d978\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3551e7f1416dbe61fbcfb76c2dcebd1c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\cfc1a9ccd1c5711ea3826fc5f9efca2d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\ecc8640387fb86b4f9636c9819f68f52\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Apoorv\.gradle\caches\transforms-3\bfd787f2630888c94692694627af4c67\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3f047f76cdc9c60b7a0e002eb8eb7aa0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\dc8b55e8f0dd051e95f5bcbc2f49a925\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\64a9f872c116ec2445967d8878c0c672\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\84823780068268e735f7e72a6649a0e8\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\f8733563e221ee556ec793f6b3550e8e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\20e5d6bb0a7ebb7e2f6a73996e7d96d3\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Apoorv\.gradle\caches\transforms-3\a2fc3d8447da0165459e5a837134ca4f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\b927dd8241ed2d8dabdf180baff1fcf0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\dce0549f75824bc88090e70011a653a7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:2:5-49
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\22bd2440842747b4e0b596e0f2d49118\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\22bd2440842747b4e0b596e0f2d49118\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3c4fb4fe86efc6cf95ea932e26949808\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3c4fb4fe86efc6cf95ea932e26949808\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\a0c6294fce5dc07c30a23fce13d7d978\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\a0c6294fce5dc07c30a23fce13d7d978\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3551e7f1416dbe61fbcfb76c2dcebd1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3551e7f1416dbe61fbcfb76c2dcebd1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\cfc1a9ccd1c5711ea3826fc5f9efca2d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\cfc1a9ccd1c5711ea3826fc5f9efca2d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\ecc8640387fb86b4f9636c9819f68f52\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\ecc8640387fb86b4f9636c9819f68f52\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Apoorv\.gradle\caches\transforms-3\bfd787f2630888c94692694627af4c67\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Apoorv\.gradle\caches\transforms-3\bfd787f2630888c94692694627af4c67\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3f047f76cdc9c60b7a0e002eb8eb7aa0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Apoorv\.gradle\caches\transforms-3\3f047f76cdc9c60b7a0e002eb8eb7aa0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\dc8b55e8f0dd051e95f5bcbc2f49a925\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\dc8b55e8f0dd051e95f5bcbc2f49a925\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\64a9f872c116ec2445967d8878c0c672\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\64a9f872c116ec2445967d8878c0c672\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\84823780068268e735f7e72a6649a0e8\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\84823780068268e735f7e72a6649a0e8\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\f8733563e221ee556ec793f6b3550e8e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\f8733563e221ee556ec793f6b3550e8e\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\20e5d6bb0a7ebb7e2f6a73996e7d96d3\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Apoorv\.gradle\caches\transforms-3\20e5d6bb0a7ebb7e2f6a73996e7d96d3\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Apoorv\.gradle\caches\transforms-3\a2fc3d8447da0165459e5a837134ca4f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Apoorv\.gradle\caches\transforms-3\a2fc3d8447da0165459e5a837134ca4f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\b927dd8241ed2d8dabdf180baff1fcf0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\b927dd8241ed2d8dabdf180baff1fcf0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\dce0549f75824bc88090e70011a653a7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Apoorv\.gradle\caches\transforms-3\dce0549f75824bc88090e70011a653a7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml
+activity#com.example.flutter_weather_app_v2.MainActivity
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:7:9-27:20
+	android:launchMode
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:20:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:30:9-32:33
+	android:value
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from E:\flutter-weather-app-v2-main\android\app\src\main\AndroidManifest.xml:31:13-44
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Apoorv\.gradle\caches\transforms-3\f1a3a5d6960492d44bdf4bcb067218cc\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
