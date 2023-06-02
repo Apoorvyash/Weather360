@@ -280,7 +280,7 @@ class _HomePageState extends State<HomePage> {
                   Text(
                     currentWeatherStatus,
                     style: const TextStyle(
-                      color: Colors.white70,
+                      color: Color.fromARGB(179, 212, 238, 15),
                       fontSize: 20.0,
                     ),
                   ),
@@ -348,7 +348,7 @@ class _HomePageState extends State<HomePage> {
                                           dailyWeatherForecast,
                                     ))), //this will open forecast screen
                         child: Text(
-                          'Forecasts',
+                          'Detailed Weather',
                           style: TextStyle(
                             fontWeight: FontWeight.w600,
                             fontSize: 16,

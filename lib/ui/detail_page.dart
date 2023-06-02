@@ -55,7 +55,7 @@ class _DetailPageState extends State<DetailPage> {
     return Scaffold(
       backgroundColor: _constants.primaryColor,
       appBar: AppBar(
-        title: const Text('Forecasts'),
+        title: const Text('Detailed Weather and Forecast'),
         centerTitle: true,
         backgroundColor: _constants.primaryColor,
         elevation: 0.0,
@@ -102,12 +102,13 @@ class _DetailPageState extends State<DetailPage> {
                             begin: Alignment.topLeft,
                             end: Alignment.center,
                             colors: [
-                              Color(0xffa9c1f5),
-                              Color(0xff6696f5),
+                              Color.fromARGB(255, 104, 239, 225),
+                              Color.fromARGB(255, 95, 107, 198),
                             ]),
                         boxShadow: [
                           BoxShadow(
-                            color: Colors.blue.withOpacity(.1),
+                            color: Color.fromARGB(255, 198, 198, 18)
+                                .withOpacity(.1),
                             offset: const Offset(0, 25),
                             blurRadius: 3,
                             spreadRadius: -10,
@@ -518,7 +519,8 @@ class _DetailPageState extends State<DetailPage> {
                                                 getForecastWeather(
                                                     2)["forecastDate"],
                                                 style: const TextStyle(
-                                                  color: Color(0xff6696f5),
+                                                  color: Color.fromARGB(
+                                                      255, 12, 208, 230),
                                                   fontWeight: FontWeight.w600,
                                                 ),
                                               ),
